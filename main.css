@@ -1,0 +1,22 @@
+
+body: {
+    margin: 0;
+    background: #555;
+}
+
+header {
+    background:
+}
+
+header h1{
+    margin: 0;
+}
+
+nav ul{
+    margin: 0;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+}
