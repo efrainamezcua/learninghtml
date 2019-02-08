@@ -5,11 +5,12 @@ body: {
 }
 
 header {
-    background:
+    background: red;
 }
 
 header h1{
     margin: 0;
+    color: red;
 }
 
 nav ul{
@@ -17,6 +18,8 @@ nav ul{
 }
 
 nav ul li {
+    padding: 10 px;
     list-style-type: none;
     display: inline-block;
 }
+
